@@ -1,0 +1,1 @@
+{"description":"A small, fast GitHub-compatible git forge: repositories, issues, pull requests, git smart HTTP, GraphQL v4 and MCP.","engines":{"node":">=22"},"name":"github-core-clone-forge","private":true,"scripts":{"start":"node --experimental-strip-types main.ts"},"type":"module","version":"1.0.0"}
